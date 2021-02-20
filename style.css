@@ -1,0 +1,44 @@
+
+    
+.card{
+    width:300px;
+    border: solid 1px lightgrey;
+    margin: auto;
+    margin-top: 100px;
+    position: relative;
+  
+}
+
+h3,h5{
+    padding-left: 10px;
+    color: rgb(44, 42, 42);
+}
+button{
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    border: 2px solid white;
+    color: white;
+    bottom: 250px;
+    right: 100px;
+    background-color: rgba(201, 194, 194,0.1);  
+}
+
+footer{
+    display: flex;
+}
+
+ span, .data{
+    color:rgb(56, 54, 54);
+    margin-top: 10px;
+    
+    
+}
+
+.data{
+    margin-left: 120px;
+}
+
+    
+
+ 
